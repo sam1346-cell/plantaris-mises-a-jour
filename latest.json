@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version de Plantaris.",
+  "pub_date": "2026-10-26T21:54:23Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2RLUm9LajNRQ2hxN1EwNkdlNFR5aHRDYzNTbFVaOE12TDFxRkJudThtaDRCVHpmQVlDTGVYNE4rRnovM3lXcDQ5aExGQ3JGNjdZM1NSYThaTU1yMmczbVpxaUR0SlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDUwODc0CWZpbGU6UGxhbnRhcmlzXzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMAo1WVgrVWhMMTNJVjNjNG1BL0kwaDVZOStGcnZKRlAyYmc5cHhURTA0S0xFaER2bFYwdmMzNmhYYjRNZ09yaXlUeVVxckFQNWhBVlJVeTk5M3ZFekVDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/sam1346-cell/plantaris-mises-a-jour/main/Plantaris_1.0.0_x64-setup.exe"
+    }
+  }
+}
