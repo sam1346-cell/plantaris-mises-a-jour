@@ -1,3 +1,3 @@
-# Plantaris — mises à jour
+# Agenda Pro (anciennement Plantaris) — mises à jour
 
-Fichiers publics lus automatiquement par Plantaris (latest.json + installateurs signés). Aucun code source ni donnée ici.
+Fichiers publics lus automatiquement par Agenda Pro (latest.json + installateurs signés). Aucun code source ni donnée ici.
