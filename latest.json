@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Plantaris devient Agenda Pro : impression sur toute imprimante, consentements modifiables et signature à l'écran, frais d'essence, solde payé visible, copier/dupliquer/répéter les rendez-vous, alerte de chevauchement, feuille de route, notes par profession, reçus pour assurances.",
-  "pub_date": "2026-11-10T00:25:54Z",
+  "version": "1.2.0",
+  "notes": "Factures personnalisables (4 modèles, logos, bloc professionnel), logiciel adapté à tout type d'entreprise, congés et jours fériés, confirmations, liste d'attente, recherche rapide, relevé annuel, courriel, dépenses et bilan, produits, clients à relancer.",
+  "pub_date": "2026-11-10T01:41:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2RLUm9LajNRQ2tWbkozL1lZWlpPZnZkQ2xBQjk2RmlUbVJwSnRJQkY2RFFGa0xVS2IxZ2pJR2IvQXdyQXl1NHJuV3JneEtVelgydlJhMENTeDFQbXhiRjdxNDR2VndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjcwMjk5CWZpbGU6QWdlbmRhIFByb18xLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjAKbWFRQUpmV010bGtuRVVNQnNkRTF4VGRaRWl5dXhjZGd2eFFMaW8za1N1SlFhekY1MHdQRTgzMGZkYjFiYm1xQXBIOTZld2t2S0pnendXSmFsYlFyQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/sam1346-cell/plantaris-mises-a-jour/main/Agenda_Pro_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2RLUm9LajNRQ25uajRPSlc3SkhOaEduMnpQYUs3cTVncVUxbVJMSTVVTTBFQm1wUUtvZ1ZnT3IrbUpXOElqWURKV2lhTnhsdHBIWnFJZDNJZlhXenVDSUlzalk2a2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc0ODMwCWZpbGU6QWdlbmRhIFByb18xLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjAKOThLdG5qME1RcjZXcmtZb3FDZ3RGSWpQR2RJTVljUEs4Y3hsWjFhdEN0RFU2dzdyMjFnVVRiREorc1ZhTUFIaDRTUTFyNllNR0szQjFNaW9uVzNzQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/sam1346-cell/plantaris-mises-a-jour/main/Agenda_Pro_1.2.0_x64-setup.exe"
     }
   }
 }
