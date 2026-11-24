@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "Factures personnalisables (4 modèles, logos, bloc professionnel), logiciel adapté à tout type d'entreprise, congés et jours fériés, confirmations, liste d'attente, recherche rapide, relevé annuel, courriel, dépenses et bilan, produits, clients à relancer.",
-  "pub_date": "2026-11-10T01:41:06Z",
+  "version": "1.3.0",
+  "notes": "Factures par courriel en 2 clics (Gmail, Outlook), rendez-vous sur le calendrier du cellulaire (Google Agenda, Outlook), centre d'aide avec recherche.",
+  "pub_date": "2026-11-24T23:33:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2RLUm9LajNRQ25uajRPSlc3SkhOaEduMnpQYUs3cTVncVUxbVJMSTVVTTBFQm1wUUtvZ1ZnT3IrbUpXOElqWURKV2lhTnhsdHBIWnFJZDNJZlhXenVDSUlzalk2a2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc0ODMwCWZpbGU6QWdlbmRhIFByb18xLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjAKOThLdG5qME1RcjZXcmtZb3FDZ3RGSWpQR2RJTVljUEs4Y3hsWjFhdEN0RFU2dzdyMjFnVVRiREorc1ZhTUFIaDRTUTFyNllNR0szQjFNaW9uVzNzQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/sam1346-cell/plantaris-mises-a-jour/main/Agenda_Pro_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2RLUm9LajNRQ3YzOGVqNlVPdFJWVURvVE5rZE9EdXFNZXM3b1gzWldITTFITkgzQ1lxMWcyMUVlcHVaMzVvNEJwSEo4NEhSRWJ1Mk8zZ3YzMzQycmE0UmwrUjRlakFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYzMTQ3CWZpbGU6QWdlbmRhIFByb18xLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4zLjAKTkJ6MzNvMDE3ODN2c0VsczlCbmVvZnBJaGRldkVySzYzeVJ6YkliUlZ4dGFxYXVseGVDUGNFMW15NDc1c2xqb2RianhXVFVVNEdjeGhMZVg5RnpGQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/sam1346-cell/plantaris-mises-a-jour/main/Agenda_Pro_1.3.0_x64-setup.exe"
     }
   }
 }
